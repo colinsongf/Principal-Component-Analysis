@@ -13,12 +13,12 @@ The 3 following figures represent the results obtained in the applications.
 
 Digits reconstructed by using principal componenets.
 
-![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/pca_digit.png)
+![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/figures/pca_digit.png)
 
 Clustering by projecting the iris dataset on 2 principal components.
 
-![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/pca_iris.png)
+![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/figures/pca_iris.png)
 
 A possible solution to find a suitable number of principal components
 
-![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/pca_PC.png)
+![alt tag](https://raw.githubusercontent.com/giangi023/Principal-Component-Analysis/master/figures/pca_PC.png)
